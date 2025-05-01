@@ -30,4 +30,4 @@
 
 
 <h3>📈 Github Stats</h3>
-<table><tr><td valign="top" width="50%">
+
