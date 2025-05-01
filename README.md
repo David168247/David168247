@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there  👋, I'm David Rios
 
-<p align='center'>👨‍💻 Fullstack Dev. | 👨‍🚀Student Ciberseguridad</p>
+<p align='center'>👨‍💻 Desarollador Jr. | 👨‍🚀Estudiante de Ciberseguridad</p>
 
 
 <h3>👨‍💻 Languages</h3>
